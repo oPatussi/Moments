@@ -1,4 +1,4 @@
-# CapacitacaoExpress
+# Moments
 
 Esse foi um projeto realizado como forma de estudo a partir das aulas do [Matheus Battisti](https://www.youtube.com/watch?v=vJt_K1bFUeA&list=PLnDvRpP8Bnex2GQEN0768_AxZg_RaIGmw&index=1&ab_channel=MatheusBattisti-HoradeCodar), ou seja, a autoria do código não é minha.
 
